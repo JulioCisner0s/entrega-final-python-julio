@@ -1,0 +1,12 @@
+.venv
+__pycache__/
+**/.DS_Store
+
+# Archivos de compilación de Python
+pycache/
+*.pyc
+
+# Archivos de pipenv. Sólo dejamos requirements.txt
+Pipfile
+Pipfile.lock
+media/**
